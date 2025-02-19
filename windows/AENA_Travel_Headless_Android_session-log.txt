@@ -1,0 +1,115 @@
+INFO:root:[2025-02-19T12:24:08.944078] Iniciando navegador chromium
+INFO:root:[2025-02-19T12:24:11.385954] Navegando en el sitio
+INFO:root:[2025-02-19T12:24:41.405521] Error al rellenar los campos o enviar el formulario: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#gigya-login-form .gigya-input-text") to be visible
+
+INFO:root:[2025-02-19T12:24:41.405521] Navegaci�n completada en chromium
+[2025-02-19T11:25:40.185Z] Ejecutando prueba en Chrome...
+[2025-02-19T11:25:41.068Z] Iniciando prueba...
+[2025-02-19T11:26:58.130Z] Ejecutando prueba en Chrome...
+[2025-02-19T11:26:58.734Z] Iniciando prueba...
+[2025-02-19T11:27:31.475Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:27:31.477Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:27:32.195Z] Iniciando prueba...
+[2025-02-19T11:28:04.563Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:28:04.564Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:28:04.648Z] Ejecutando prueba en Microsoft Edge...
+[2025-02-19T11:28:06.875Z] Iniciando prueba...
+[2025-02-19T11:28:29.759Z] Error durante la ejecución del script: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:28:29.760Z] Error en navegador webkit: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:28:30.251Z] Iniciando prueba...
+[2025-02-19T11:28:37.340Z] Error durante la ejecución del script: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:28:37.340Z] Error en navegador webkit: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:30:56.264Z] Ejecutando prueba en Chrome...
+[2025-02-19T11:30:57.426Z] Iniciando prueba...
+[2025-02-19T11:31:32.382Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:31:32.383Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:31:32.851Z] Iniciando prueba...
+[2025-02-19T11:32:05.105Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:32:05.106Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:32:05.194Z] Ejecutando prueba en Microsoft Edge...
+[2025-02-19T11:32:05.658Z] Iniciando prueba...
+[2025-02-19T11:32:35.844Z] Error durante la ejecución del script: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:32:35.845Z] Error en navegador webkit: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:33:01.402Z] Ejecutando prueba en Chrome...
+[2025-02-19T11:33:01.804Z] Iniciando prueba...
+[2025-02-19T11:33:22.750Z] Error durante la ejecución del script: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:33:22.751Z] Error en navegador chromium: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:33:27.216Z] Ejecutando prueba en Chrome...
+[2025-02-19T11:33:27.650Z] Iniciando prueba...
+[2025-02-19T11:33:59.888Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:33:59.888Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:34:00.356Z] Iniciando prueba...
+[2025-02-19T11:34:32.532Z] Error durante la ejecución del script: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:34:32.532Z] Error en navegador chromium: TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:34:32.601Z] Ejecutando prueba en Microsoft Edge...
+[2025-02-19T11:34:32.978Z] Iniciando prueba...
+[2025-02-19T11:35:04.279Z] Error durante la ejecución del script: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-19T11:35:04.280Z] Error en navegador webkit: Error: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+

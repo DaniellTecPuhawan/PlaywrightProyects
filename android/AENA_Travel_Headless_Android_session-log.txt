@@ -1,0 +1,46 @@
+[2025-02-19T12:52:47.716Z] Verificando disponibilidad de la URL...
+[2025-02-19T12:52:56.310Z] La URL responde con código 200. Continuando ejecución...
+[2025-02-19T12:53:01.600Z] Navegando en Chrome
+[2025-02-19T12:53:01.601Z] Navegando en Firefox
+[2025-02-19T12:53:03.940Z] Correo ingresado en Chrome
+[2025-02-19T12:53:03.941Z] Correo ingresado en Firefox
+[2025-02-19T12:53:04.102Z] Contraseña ingresada en Chrome
+[2025-02-19T12:53:04.103Z] Contraseña ingresada en Firefox
+[2025-02-19T12:53:04.378Z] Formulario enviado en Chrome
+[2025-02-19T12:53:04.379Z] Formulario enviado en Firefox
+[2025-02-19T12:53:05.384Z] Error al ejecutar el script: page.waitForLoadState: Timeout 1000ms exceeded.
+=========================== logs ===========================
+  "commit" event fired
+  "domcontentloaded" event fired
+  "load" event fired
+  "commit" event fired
+============================================================
+[2025-02-19T13:01:31.139Z] Verificando disponibilidad de la URL...
+[2025-02-19T13:01:32.621Z] La URL responde con código 200. Continuando ejecución...
+[2025-02-19T13:01:37.549Z] Navegando en Chrome
+[2025-02-19T13:01:37.550Z] Navegando en Firefox
+[2025-02-19T13:01:39.736Z] Correo ingresado en Chrome
+[2025-02-19T13:01:39.737Z] Correo ingresado en Firefox
+[2025-02-19T13:01:39.945Z] Contraseña ingresada en Chrome
+[2025-02-19T13:01:39.946Z] Contraseña ingresada en Firefox
+[2025-02-19T13:01:40.193Z] Formulario enviado en Chrome
+[2025-02-19T13:01:40.195Z] Formulario enviado en Firefox
+[2025-02-19T13:01:41.199Z] Error al ejecutar el script: page.waitForLoadState: Timeout 1000ms exceeded.
+=========================== logs ===========================
+  "commit" event fired
+  "domcontentloaded" event fired
+  "load" event fired
+  "commit" event fired
+============================================================
+[2025-02-19T13:04:32.467Z] Verificando disponibilidad de la URL...
+[2025-02-19T13:04:33.904Z] La URL responde con código 200. Continuando ejecución...
+[2025-02-19T13:04:38.700Z] Navegando en Chrome
+[2025-02-19T13:04:38.701Z] Navegando en Firefox
+[2025-02-19T13:04:40.886Z] Correo ingresado en Chrome
+[2025-02-19T13:04:40.887Z] Correo ingresado en Firefox
+[2025-02-19T13:04:41.063Z] Contraseña ingresada en Chrome
+[2025-02-19T13:04:41.064Z] Contraseña ingresada en Firefox
+[2025-02-19T13:04:41.318Z] Formulario enviado en Chrome
+[2025-02-19T13:04:41.319Z] Formulario enviado en Firefox
+[2025-02-19T13:04:46.825Z] Navegación completada en Chrome
+[2025-02-19T13:04:46.826Z] Navegación completada en Firefox
